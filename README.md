@@ -23,6 +23,6 @@
 <div style="display:flex; justify-content:space-between;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DipakGohilSimform&show_icons=true&locale=en" alt="DipakGohilSimform" />
   
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DipakGohilSimform&" alt="DipakGohilSimform" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DipakGohilSimform&" alt="DipakGohilSimform" />
 </div>
 
